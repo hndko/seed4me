@@ -1,0 +1,7 @@
+vendor/
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+run.original.php
